@@ -1,0 +1,12 @@
+Free API key: N6GFWOIKWHCPGR4N
+Free APT key - Finhub: ckr2f6hr01quf3kmvpggckr2f6hr01quf3kmvph0
+
+import {
+  Chart as ChartJS,
+  LinearScale,
+  TimeScale,
+  PointElement,
+} from "chart.js";
+import "chartjs-adapter-date-fns";
+import { Line, Bubble } from "react-chartjs-2";
+ChartJS.register(Line, PointElement, LinearScale, TimeScale);
