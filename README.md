@@ -5,7 +5,7 @@
 ### Simple chart of each stock to give an insight about the market
 ### Currently improve the UI and make some machine learning algorithm for predict the market
 
-## Tech stack: JavaScript, React, MongoDB
+## Tech stack: JavaScript, React, MongoDB, Finnhub API
 
 ## Screenshots:
 ![Alt text](image.png)
